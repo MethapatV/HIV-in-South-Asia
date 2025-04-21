@@ -1,6 +1,6 @@
 # HIV in South Asia
 
-## Prject Overview
+## Project Overview
 This project explores the relationship between HIV prevalence and socioeconomic indicators across eight **South Asian countries: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka**. Leveraging public datasets from **WHO, UNICEF, and the World Bank**, we structured and analyzed data to understand trends in HIV cases, especially among women and pregnant individuals, while linking them with economic metrics like GDP per capita and unemployment rates.
 
 ## SQL Utilization
